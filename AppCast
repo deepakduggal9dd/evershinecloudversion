@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Evershine Cloud</title>
+    <item>
+      <title>Version 1.0.1</title>
+      <description>Report Bug Fixes</description>
+      <pubDate>Mon, 11 Nov 2024 12:00:00 GMT</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+    </item>
+  </channel>
+</rss>
