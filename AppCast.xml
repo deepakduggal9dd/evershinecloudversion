@@ -3,10 +3,10 @@
   <channel>
     <title>Evershine Cloud</title>
     <item>
-      <title>Version 1.2.3</title>
+      <title>Version 1.2.5</title>
       <description>Inital Release</description>
-      <pubDate>Fri, 14 Feb 2025 12:00:00 GMT</pubDate>
-      <sparkle:version>1.2.3</sparkle:version>
+      <pubDate>Fri, 17 Feb 2025 12:00:00 GMT</pubDate>
+      <sparkle:version>1.2.5</sparkle:version>
     </item>
   </channel>
 </rss>
